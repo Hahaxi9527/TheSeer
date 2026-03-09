@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>resource/icon/takagi.jpg</file>
+        <file>resource/background/sign_in.png</file>
+        <file>resource/button/start_game.png</file>
+        <file>resource/background/start_game_background.jpg</file>
+        <file>resource/background/lobby.jpg</file>
+        <file>resource/icon/coin.jpg</file>
+        <file>resource/icon/add_money.jpg</file>
+        <file>resource/icon/add_money_2.jpg</file>
+        <file>resource/pet/amber_knight_0.svg</file>
+        <file>resource/pet/ares_0.svg</file>
+        <file>resource/pet/ares_1.svg</file>
+        <file>resource/pet/black_bear_berserk_0.svg</file>
+        <file>resource/pet/black_bear_berserk_1.svg</file>
+        <file>resource/pet/blaze_god_of_war_0.svg</file>
+        <file>resource/pet/blaze_god_of_war_1.svg</file>
+        <file>resource/pet/dimo_0.svg</file>
+        <file>resource/pet/dimo_1.svg</file>
+        <file>resource/pet/rock_armor_lord_0.svg</file>
+        <file>resource/pet/rock_armor_lord_1.svg</file>
+        <file>resource/pet/sonic_dog_0.svg</file>
+        <file>resource/pet/sonic_dog_1.svg</file>
+        <file>resource/pet/swift_quinn_0.svg</file>
+        <file>resource/pet/swift_quinn_1.svg</file>
+        <file>resource/pet/amber_knight_1.svg</file>
+        <file>resource/background/battle_choose.jpeg</file>
+        <file>resource/icon/blonde_1.jpeg</file>
+        <file>resource/icon/blonde_2.jpeg</file>
+        <file>resource/icon/gold_1.jpeg</file>
+        <file>resource/icon/gold_2.jpeg</file>
+        <file>resource/icon/silver_1.jpeg</file>
+        <file>resource/icon/silver_2.jpeg</file>
+    </qresource>
+</RCC>
